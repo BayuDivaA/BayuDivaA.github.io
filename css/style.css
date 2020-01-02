@@ -1,7 +1,7 @@
 html, body {
 	font-family: sans-serif;
     margin: 0;
-	background: url("ad.jpg");
+	background: url("..\Gambar\ad.jpg");
 	background-size: 100%;
     background-attachment: fixed;
 }
